@@ -1,4 +1,4 @@
-# iyf-s10-week-07-b4130478-web
+# github.com/iyf-s10-week-07-b4130478-web
 To do list
 #week {07} : projec{to do list}
 ##author
